@@ -32,13 +32,40 @@ The datasets used in this project are not publicly shared due to confidentiality
 
 **Python, Pandas, Matplotlib, Tkinter, Excel, Tableau, Data processing, Interactive plotting, Visualization dashboards, Classification logic**
 
+---
+
 ### 📸 Project Snapshot
 
-Not available.
+---
+
+### 📸 Project Snapshot
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2024.10.06_GitHub_PRJ_Bot-Detection-from-Sensor-Data/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png?raw=true"
+       alt="Bot Detection from Sensor Data Preview 1"
+       width="640"
+       height="1000">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2024.10.06_GitHub_PRJ_Bot-Detection-from-Sensor-Data/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_2.png?raw=true"
+       alt="Bot Detection from Sensor Data Preview 2"
+       width="640"
+       height="360">
+</p>
+
+---
+
+
+---
 
 ### 🎥 Video Demonstration
 
 Not available.
+
+
+---
+
 
 ### 📣 Hashtags Section
 
